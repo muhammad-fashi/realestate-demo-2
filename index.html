@@ -1,6 +1,32 @@
 <!doctype html>
 <html lang="en" class="scroll-smooth">
   <head>
+    <script>
+      (function() {
+        try {
+          var _f = typeof window !== 'undefined' && window.fetch ? window.fetch.bind(window) : null;
+          var _current = _f;
+          var desc = {
+            configurable: true,
+            enumerable: true,
+            get: function() {
+              return _current;
+            },
+            set: function(fn) {
+              _current = fn;
+            }
+          };
+          try {
+            Object.defineProperty(window, 'fetch', desc);
+          } catch (e) {}
+          try {
+            if (typeof Window !== 'undefined' && Window.prototype) {
+              Object.defineProperty(Window.prototype, 'fetch', desc);
+            }
+          } catch (e) {}
+        } catch (err) {}
+      })();
+    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Aura Luxury Real Estate | Exceptional Properties & Remarkable Places</title>
