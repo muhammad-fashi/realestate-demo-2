@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Real Estate",
+  "description": "Discover exceptional luxury residences, modern architectural properties, and premier investment opportunities with dynamic listings and private management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

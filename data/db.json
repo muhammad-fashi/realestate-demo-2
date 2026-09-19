@@ -1,0 +1,624 @@
+{
+  "properties": [
+    {
+      "id": "prop-1",
+      "title": "The Margalla Hillside Sanctuary",
+      "slug": "margalla-hillside-sanctuary-islamabad",
+      "description": "An architectural masterpiece perched on the foothills of the Margalla Hills. Designed with floor-to-ceiling glass pavilions, imported Italian travertine marble, a 20-meter infinity lap pool overlooking the capital skyline, and integrated smart home automation.",
+      "type": "Villa",
+      "listingType": "sale",
+      "status": "For Sale",
+      "price": 1250000,
+      "currency": "USD",
+      "location": {
+        "country": "Pakistan",
+        "state": "Federal Territory",
+        "city": "Islamabad",
+        "area": "E-7",
+        "address": "Hillside Avenue, Sector E-7, Islamabad",
+        "lat": 33.7294,
+        "lng": 73.0489,
+        "nearby": {
+          "schools": "Beaconhouse Newlands (5 min), Froebel's (8 min)",
+          "hospitals": "Kulsum International Hospital (10 min)",
+          "shopping": "Beverly Centre & Centaurus Mall (12 min)",
+          "transit": "Kashmir Highway & Metro station (7 min)",
+          "airports": "Islamabad International Airport (35 min)"
+        }
+      },
+      "details": {
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "garage": 3,
+        "parking": 6,
+        "sqft": 7500,
+        "lotSqft": 18000,
+        "yearBuilt": 2024
+      },
+      "amenities": [
+        "Swimming Pool",
+        "Private Garden",
+        "Smart Home",
+        "24/7 Security",
+        "Gym / Wellness Suite",
+        "Central Air Conditioning",
+        "Central Heating",
+        "Balcony / Terrace",
+        "Staff Quarters",
+        "Wine Cellar",
+        "Marble Flooring"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
+          "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80"
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "virtualTourUrl": "https://matterport.com"
+      },
+      "agentId": "agent-1",
+      "isFeatured": true,
+      "isPublished": true,
+      "viewsCount": 1420,
+      "createdAt": "2025-01-15T10:00:00.000Z",
+      "updatedAt": "2025-02-10T14:30:00.000Z",
+      "seo": {
+        "title": "The Margalla Hillside Sanctuary | Sector E-7 Luxury Villa",
+        "description": "5 bedroom contemporary luxury estate in Sector E-7 Islamabad featuring infinity pool and mountain views."
+      }
+    },
+    {
+      "id": "prop-2",
+      "title": "Modernist Glass Pavilion Residence",
+      "slug": "modernist-glass-pavilion-f7-islamabad",
+      "description": "A striking modernist residence in the heart of Sector F-7. Seamless indoor-outdoor continuity with serene water features, double-height living spaces, bespoke walnut cabinetry, and state-of-the-art chef's kitchen.",
+      "type": "House",
+      "listingType": "sale",
+      "status": "For Sale",
+      "price": 680000,
+      "currency": "USD",
+      "location": {
+        "country": "Pakistan",
+        "state": "Federal Territory",
+        "city": "Islamabad",
+        "area": "F-7",
+        "address": "School Road, Sector F-7/2, Islamabad",
+        "lat": 33.7201,
+        "lng": 73.0567,
+        "nearby": {
+          "schools": "Islamabad College of Arts & Sciences (4 min)",
+          "hospitals": "Shifa International Hospital (15 min)",
+          "shopping": "F-7 Markaz (Jinnah Super) (3 min walk)",
+          "transit": "Main Nazim-ud-Din Road (2 min)"
+        }
+      },
+      "details": {
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "garage": 2,
+        "parking": 4,
+        "sqft": 4800,
+        "lotSqft": 10800,
+        "yearBuilt": 2023
+      },
+      "amenities": [
+        "Private Garden",
+        "Smart Home",
+        "24/7 Security",
+        "Central Air Conditioning",
+        "Central Heating",
+        "Balcony / Terrace",
+        "Staff Quarters"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-2",
+      "isFeatured": true,
+      "isPublished": true,
+      "viewsCount": 980,
+      "createdAt": "2025-01-20T08:00:00.000Z",
+      "updatedAt": "2025-02-12T11:00:00.000Z"
+    },
+    {
+      "id": "prop-3",
+      "title": "The Sky Crown Penthouse",
+      "slug": "the-sky-crown-penthouse-downtown-dubai",
+      "description": "Rising high above the glittering Burj Khalifa boulevard, this dual-level penthouse boasts private elevator access, 360-degree panoramic glass walls, private rooftop terrace with heated jacuzzi, and concierge service.",
+      "type": "Penthouse",
+      "listingType": "sale",
+      "status": "For Sale",
+      "price": 2850000,
+      "currency": "USD",
+      "location": {
+        "country": "UAE",
+        "state": "Dubai",
+        "city": "Dubai",
+        "area": "Downtown",
+        "address": "Sheikh Mohammed bin Rashid Blvd, Downtown Dubai",
+        "lat": 25.1972,
+        "lng": 55.2744,
+        "nearby": {
+          "schools": "Dubai International Academy (12 min)",
+          "hospitals": "Mediclinic Dubai Mall (5 min)",
+          "shopping": "Dubai Mall (direct connected walkway)",
+          "transit": "Burj Khalifa / Dubai Mall Metro (4 min walk)"
+        }
+      },
+      "details": {
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "garage": 3,
+        "parking": 3,
+        "sqft": 5600,
+        "yearBuilt": 2024
+      },
+      "amenities": [
+        "Swimming Pool",
+        "Elevator",
+        "Smart Home",
+        "24/7 Security",
+        "Gym / Wellness Suite",
+        "Central Air Conditioning",
+        "Balcony / Terrace",
+        "Valet Parking"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80",
+          "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-1",
+      "isFeatured": true,
+      "isPublished": true,
+      "viewsCount": 2100,
+      "createdAt": "2025-01-05T12:00:00.000Z",
+      "updatedAt": "2025-02-01T15:20:00.000Z"
+    },
+    {
+      "id": "prop-4",
+      "title": "Canal-Front Contemporary Villa",
+      "slug": "canal-front-contemporary-villa-lahore",
+      "description": "Situated along the serene canal in DHA Phase 6, this bespoke contemporary mansion offers manicured private courtyards, Japanese zen gardens, heated swimming pool, basement cinema, and premium German fixtures throughout.",
+      "type": "Villa",
+      "listingType": "sale",
+      "status": "For Sale",
+      "price": 890000,
+      "currency": "USD",
+      "location": {
+        "country": "Pakistan",
+        "state": "Punjab",
+        "city": "Lahore",
+        "area": "DHA Phase 6",
+        "address": "Sector L, Phase 6 DHA, Lahore",
+        "lat": 31.4704,
+        "lng": 74.4502,
+        "nearby": {
+          "schools": "LUMS University (10 min), Lahore Grammar School (6 min)",
+          "hospitals": "National Hospital & Medical Centre (8 min)",
+          "shopping": "Packages Mall & Phase 6 Commercial Hub (5 min)"
+        }
+      },
+      "details": {
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "garage": 4,
+        "parking": 6,
+        "sqft": 8200,
+        "lotSqft": 20000,
+        "yearBuilt": 2024
+      },
+      "amenities": [
+        "Swimming Pool",
+        "Private Garden",
+        "Smart Home",
+        "Gym / Wellness Suite",
+        "Central Air Conditioning",
+        "Central Heating",
+        "Staff Quarters",
+        "Marble Flooring"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-3",
+      "isFeatured": true,
+      "isPublished": true,
+      "viewsCount": 1670,
+      "createdAt": "2025-01-28T14:00:00.000Z",
+      "updatedAt": "2025-02-14T09:15:00.000Z"
+    },
+    {
+      "id": "prop-5",
+      "title": "Mayfair Architectural Townhouse",
+      "slug": "mayfair-architectural-townhouse-london",
+      "description": "A meticulously restored Grade II listed Georgian townhouse in Mayfair. Blending timeless heritage facade details with modern luxury interior design, private passenger elevator, spa suite, and tranquil private garden terrace.",
+      "type": "Townhouse",
+      "listingType": "rent",
+      "status": "For Rent",
+      "price": 18500,
+      "currency": "USD",
+      "pricePeriod": "month",
+      "location": {
+        "country": "United Kingdom",
+        "state": "Greater London",
+        "city": "London",
+        "area": "Mayfair",
+        "address": "Mount Street, Mayfair, London W1K",
+        "lat": 51.5099,
+        "lng": -0.1504,
+        "nearby": {
+          "schools": "Eaton Square School (10 min)",
+          "shopping": "Bond Street & Mount Street Boutiques (1 min walk)",
+          "transit": "Green Park & Bond Street Underground (5 min walk)"
+        }
+      },
+      "details": {
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "garage": 1,
+        "parking": 1,
+        "sqft": 4200,
+        "yearBuilt": 2022
+      },
+      "amenities": [
+        "Elevator",
+        "Smart Home",
+        "24/7 Security",
+        "Central Heating",
+        "Balcony / Terrace",
+        "Wine Cellar"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-1",
+      "isFeatured": false,
+      "isPublished": true,
+      "viewsCount": 840,
+      "createdAt": "2025-02-02T11:30:00.000Z",
+      "updatedAt": "2025-02-15T16:00:00.000Z"
+    },
+    {
+      "id": "prop-6",
+      "title": "Minimalist Designer Residence in F-6",
+      "slug": "minimalist-designer-residence-f6-islamabad",
+      "description": "Exceptional rental opportunity in Diplomatic enclave vicinity. Designed by renowned architects with exposed architectural concrete, double-glazed acoustic acoustic glass, solar micro-grid, and lush landscaped terrace.",
+      "type": "House",
+      "listingType": "rent",
+      "status": "For Rent",
+      "price": 4500,
+      "currency": "USD",
+      "pricePeriod": "month",
+      "location": {
+        "country": "Pakistan",
+        "state": "Federal Territory",
+        "city": "Islamabad",
+        "area": "F-6",
+        "address": "Margalla Road, Sector F-6/3, Islamabad",
+        "lat": 33.7289,
+        "lng": 73.0722,
+        "nearby": {
+          "shopping": "Super Market F-6 (5 min walk)",
+          "transit": "Constitution Avenue (4 min)",
+          "hospitals": "Maroof International Hospital (10 min)"
+        }
+      },
+      "details": {
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "garage": 2,
+        "parking": 3,
+        "sqft": 4000,
+        "lotSqft": 9000,
+        "yearBuilt": 2023
+      },
+      "amenities": [
+        "Private Garden",
+        "Smart Home",
+        "24/7 Security",
+        "Central Air Conditioning",
+        "Balcony / Terrace"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-2",
+      "isFeatured": false,
+      "isPublished": true,
+      "viewsCount": 730,
+      "createdAt": "2025-02-05T09:00:00.000Z",
+      "updatedAt": "2025-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "prop-7",
+      "title": "Aura Executive Corporate Tower Suites",
+      "slug": "aura-executive-corporate-tower-islamabad",
+      "description": "Ultra-prime commercial grade-A corporate floor in Blue Area Islamabad. Features private boardrooms, acoustic glass partitioning, high-speed fiber backbone, and dedicated VIP parking bays.",
+      "type": "Commercial",
+      "listingType": "rent",
+      "status": "For Rent",
+      "price": 8500,
+      "currency": "USD",
+      "pricePeriod": "month",
+      "location": {
+        "country": "Pakistan",
+        "state": "Federal Territory",
+        "city": "Islamabad",
+        "area": "Blue Area",
+        "address": "Jinnah Avenue, Blue Area, Islamabad",
+        "lat": 33.7121,
+        "lng": 73.0645,
+        "nearby": {
+          "transit": "7th Avenue Metro Station (1 min walk)",
+          "shopping": "Centaurus Mall & Beverly Centre (3 min)"
+        }
+      },
+      "details": {
+        "bedrooms": 0,
+        "bathrooms": 4,
+        "parking": 10,
+        "sqft": 6500,
+        "yearBuilt": 2023
+      },
+      "amenities": [
+        "Elevator",
+        "24/7 Security",
+        "Central Air Conditioning",
+        "Smart Home",
+        "Valet Parking"
+      ],
+      "media": {
+        "featuredImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=80"
+        ]
+      },
+      "agentId": "agent-3",
+      "isFeatured": false,
+      "isPublished": true,
+      "viewsCount": 510,
+      "createdAt": "2025-02-08T13:00:00.000Z",
+      "updatedAt": "2025-02-18T10:00:00.000Z"
+    }
+  ],
+  "agents": [
+    {
+      "id": "agent-1",
+      "name": "Alexander Vance",
+      "position": "Principal Partner & Head of Prime Estates",
+      "bio": "With over 16 years representing ultra-high-net-worth individuals, ambassadors, and family offices, Alexander leads Aura's prime residential advisory with unparalleled market insight and discretion.",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=800&q=80",
+      "phone": "+92 (51) 844-9000",
+      "email": "a.vance@auraluxury.com",
+      "specialization": ["Prime Estates", "Penthouses", "Cross-border Transactions"],
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com"
+      },
+      "active": true
+    },
+    {
+      "id": "agent-2",
+      "name": "Sophia Al-Mansoor",
+      "position": "Director of Architectural Acquisitions",
+      "bio": "Sophia combines a master's in architectural history with ten years of prime property transactions in Islamabad, Dubai, and London. She specializes in rare contemporary homes and modernist developments.",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80",
+      "phone": "+92 (51) 844-9001",
+      "email": "s.almansoor@auraluxury.com",
+      "specialization": ["Architectural Residences", "Diplomatic Leases", "Modern Villas"],
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com"
+      },
+      "active": true
+    },
+    {
+      "id": "agent-3",
+      "name": "Hamza Tariq",
+      "position": "Senior Commercial & Portfolio Advisor",
+      "bio": "Specializing in institutional grade assets, commercial land parcels, and luxury residential developments across Punjab and the capital region. Recognized for high-yield portfolio structuring.",
+      "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "phone": "+92 (51) 844-9002",
+      "email": "h.tariq@auraluxury.com",
+      "specialization": ["Commercial Real Estate", "Investment Advisory", "Valuations"],
+      "social": {
+        "linkedin": "https://linkedin.com"
+      },
+      "active": true
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "Zainab Malik",
+      "email": "z.malik@outlook.com",
+      "phone": "+92 300 5551234",
+      "propertyId": "prop-1",
+      "propertyTitle": "The Margalla Hillside Sanctuary",
+      "subject": "Private Viewing & Title Verification",
+      "message": "Interested in scheduling a private discreet viewing for our family this coming weekend. Could you also confirm available completion timelines and security systems?",
+      "status": "Viewing Scheduled",
+      "createdAt": "2025-02-18T10:15:00.000Z",
+      "notes": "Client referred by diplomatic mission. Preferred weekend morning."
+    },
+    {
+      "id": "inq-2",
+      "name": "Farhan Qureshi",
+      "email": "f.qureshi@investgroup.ae",
+      "phone": "+971 50 123 4567",
+      "propertyId": "prop-3",
+      "propertyTitle": "The Sky Crown Penthouse",
+      "subject": "Dubai Penthouse Investment Query",
+      "message": "We represent an offshore family fund interested in the Dubai downtown penthouse portfolio. Please share the prospectus and rental yield projections.",
+      "status": "New",
+      "createdAt": "2025-02-19T08:45:00.000Z"
+    }
+  ],
+  "viewings": [
+    {
+      "id": "view-1",
+      "name": "Dr. Tariq Hashmi",
+      "email": "dr.hashmi@hospital.org",
+      "phone": "+92 321 9876543",
+      "propertyId": "prop-2",
+      "propertyTitle": "Modernist Glass Pavilion Residence",
+      "preferredDate": "2025-03-01",
+      "preferredTime": "11:00 AM",
+      "message": "Would like to inspect the basement cinema and garden boundary wall with my architect.",
+      "status": "Confirmed",
+      "createdAt": "2025-02-17T15:30:00.000Z"
+    }
+  ],
+  "valuations": [
+    {
+      "id": "val-1",
+      "ownerName": "Commodore (R) Nadeem Khan",
+      "email": "n.khan@marine.org",
+      "phone": "+92 333 4445555",
+      "propertyAddress": "Plot 14, Sector F-8/1, Islamabad",
+      "propertyType": "House",
+      "estimatedValue": "$950,000",
+      "message": "Looking to list our 1-kanal designer house for private sale before relocating abroad.",
+      "status": "Reviewing",
+      "createdAt": "2025-02-16T12:00:00.000Z"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "Prime Real Estate Trends in Islamabad: Margalla Foothills & Sector E-7",
+      "slug": "prime-real-estate-trends-islamabad-margalla",
+      "excerpt": "An analytical breakdown of capital appreciation, architectural evolution, and foreign buyer demand across Islamabad's most coveted sectors.",
+      "content": "Islamabad's prime residential landscape has experienced an unprecedented flight to quality over the past 24 months. As international standards of architectural design converge with growing demand from overseas nationals and diplomatic missions, sectors like E-7, F-6, and F-7 have maintained resilient valuations and heightened transaction velocity.\n\nKey drivers include the scarcity of prime corner plots, strict zoning protections, and the introduction of turnkey architectural residences built to international energy-efficiency standards. Buyers are increasingly prioritizing perimeter security, integrated solar generation, and bespoke finishes over raw square footage.",
+      "category": "Market Insights",
+      "author": {
+        "name": "Alexander Vance",
+        "role": "Principal Partner",
+        "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&q=80"
+      },
+      "featuredImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "date": "February 14, 2025",
+      "readTime": "5 min read",
+      "published": true,
+      "tags": ["Islamabad", "Market Analysis", "Luxury Property", "Investment"]
+    },
+    {
+      "id": "blog-2",
+      "title": "The Art of Buying Architectural Property: A Comprehensive Due Diligence Guide",
+      "slug": "art-of-buying-architectural-property-guide",
+      "excerpt": "Crucial considerations when acquiring high-value residential estates — from title verification and structural vetting to smart home infrastructure.",
+      "content": "Acquiring a luxury residence involves far more than aesthetic appreciation. In this guide, our acquisitions team outlines the five non-negotiable stages of luxury property acquisition: verifying clean cadastral records, assessing structural integrity and soil stability, auditing electrical and HVAC installations, and evaluating future neighborhood development permits.\n\nEngaging specialized legal counsel and qualified structural surveyors before placing formal offers ensures total security and peace of mind.",
+      "category": "Buying Guide",
+      "author": {
+        "name": "Sophia Al-Mansoor",
+        "role": "Director of Acquisitions",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
+      },
+      "featuredImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "date": "February 8, 2025",
+      "readTime": "7 min read",
+      "published": true,
+      "tags": ["Due Diligence", "Buying", "Legal", "Architecture"]
+    },
+    {
+      "id": "blog-3",
+      "title": "Global Portfolio Diversification: Why Capital Allocators Are Eyeing Dubai and London",
+      "slug": "global-portfolio-diversification-dubai-london",
+      "excerpt": "Exploring cross-border tax efficiencies, rental yields, and wealth preservation opportunities across premier international property hubs.",
+      "content": "For high-net-worth investors, real estate remains the quintessential hedge against currency volatility and inflation. By blending stable prime assets in London's Mayfair and Kensington with high-yielding penthouses in Dubai, investors achieve balanced cash-flow and generational wealth preservation.",
+      "category": "Investment",
+      "author": {
+        "name": "Hamza Tariq",
+        "role": "Senior Advisor",
+        "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80"
+      },
+      "featuredImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "date": "January 29, 2025",
+      "readTime": "6 min read",
+      "published": true,
+      "tags": ["Dubai", "London", "Wealth Preservation", "Yield"]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Suleman & Mariam Abbasi",
+      "role": "Private Clients",
+      "company": "Offshore Advisory",
+      "review": "Aura handled the acquisition of our Margalla hillside estate with complete confidentiality and remarkable precision. Their understanding of prime architectural estates is second to none.",
+      "rating": 5,
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "active": true
+    },
+    {
+      "id": "test-2",
+      "name": "Omar Al-Kuwari",
+      "role": "Managing Director",
+      "company": "Kuwari Holdings",
+      "review": "From selecting the prime penthouse in Downtown Dubai to overseeing the legal transaction seamlessly, the Aura team delivered an exemplary, bespoke advisory experience.",
+      "rating": 5,
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "active": true
+    },
+    {
+      "id": "test-3",
+      "name": "Ayesha Farooq",
+      "role": "Founder & Creative Director",
+      "company": "Atelier Farooq",
+      "review": "Selling our designer property in Sector F-7 took less than four weeks through Aura's private buyer network. They represented the architectural value of our home with unmatched elegance.",
+      "rating": 5,
+      "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "active": true
+    }
+  ],
+  "settings": {
+    "brandName": "Aura Luxury Real Estate",
+    "tagline": "Exceptional Properties. Remarkable Places.",
+    "logoText": "AURA",
+    "contactPhone": "+92 (51) 844-9000",
+    "contactEmail": "concierge@auraluxury.com",
+    "officeAddress": "Floor 14, Aura Executive Tower, Jinnah Avenue, Blue Area, Islamabad",
+    "businessHours": "Mon – Sat: 9:00 AM – 7:00 PM (Private viewings 24/7 by appointment)",
+    "heroTitle": "Exceptional Properties. Remarkable Places.",
+    "heroSubtitle": "Discover thoughtfully curated luxury residences, penthouses, architectural homes, and premier investment properties across premier addresses.",
+    "heroImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=2000&q=85",
+    "stats": {
+      "propertiesListed": "500+",
+      "successfulTransactions": "250+",
+      "yearsExperience": "16+",
+      "clientSatisfaction": "99%"
+    },
+    "socialLinks": {
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com",
+      "facebook": "https://facebook.com"
+    }
+  },
+  "adminUser": {
+    "email": "admin@auraluxury.com",
+    "passwordHash": "admin123",
+    "name": "Managing Principal",
+    "role": "Super Admin"
+  }
+}
